@@ -5,7 +5,6 @@ string of ints represents a valid UTF-8 encoding.
 """
 from itertools import takewhile
 
-
 def int_to_bits(nums):
     """
     Helper function
